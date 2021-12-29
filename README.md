@@ -12,6 +12,7 @@
 - 数据库：MySQL
 - 对象存储：Tencent COS
 
+
 ## 启动方法
 
 1. 修改 resources 目录下的 application、application-prod 配置文件，把数据库地址改为自己的
